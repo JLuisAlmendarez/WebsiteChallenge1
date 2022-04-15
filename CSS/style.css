@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    text-align: center;
+
+}
+
+.top-container {
+    position: relative;
+    margin-top: 0;
+    background-color: #D1E8E4   ;
+}
+
+#title{
+    margin: auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 312.5%;
+}
+
+
+#cloud1{
+    margin-top: 3em;
+    margin-left: 50em;
+    position: relative;
+}
+
+#cloud2{
+    position: relative;
+    bottom: 20em;
+    right: 10em;
+}
+
+
+#monta{
+    position: relative;
+    right: 4.68em;
+}
+
+.subtitulo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: x-large;
+    font-weight: normal;
+}
+
+h2,h3{
+    font-family: sans-serif;
+}
+
+p,a{
+    font-family: 'Poppins', sans-serif;
+}
+
+H1,h2{
+    color: #66BFBF;
+    font-size: xx-large;
+}
+
+h3,a{
+    color: #11999E;
+}
+
+H1{
+  line-height: 2;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.computer{
+    width: 25%;
+    float: left;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+
+.chilli{
+    width: 25%;
+    float: right;
+    border-radius: 100%;
+    margin-left: 20px;
+
+}
+
+#titlechili{
+    text-align: left;
+}
+
+
+.textoskills{
+    margin-bottom: 12.5rem;
+}
+
+
+.textoskills1{
+    margin-bottom: 12.5rem;
+    text-align: left;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width:10px ;
+    width: 10rem;
+    color: #D1E8E4;
+}
+
+.profile{
+    width: 25%;
+    margin: auto;
+}
+
+.contact-me{
+    width: 50%;
+    margin: auto;
+}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(#66BFBF,#08a9c0);
+
+}
+
+.btn:hover{
+    border-radius: 100px;
+    background: linear-gradient(#6DCFCF,#09BFDB);
+    transition: background-color, 1s;
+
+}
+
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px;
+    margin-top:100px ;
+}
+
+.footer-link{
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #11999E ;
+    font-family: sans-serif;
+}
+
+.company{
+    position: relative;
+    top: 30px;
+    color: white;
+    font-weight: bolder;
+}
+
+#zzz{
+    width:65%;
+}
